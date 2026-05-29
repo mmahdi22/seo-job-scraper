@@ -42,6 +42,7 @@ SEARCH_QUERIES = [
     "SEO Content Editor remote",
     "SEO Python remote",
     "WordPress SEO Specialist remote",
+    "digital marketing specialist remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
